@@ -1,2 +1,2 @@
 # uts-ipat
-ulangan tengah semester edit
+ulangan tengah semester.edit
